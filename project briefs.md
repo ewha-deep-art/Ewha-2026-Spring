@@ -6,6 +6,7 @@
 | [2](#team-2) | Sudo |  |  |
 | [3](#team-3) | 할루캐쳐 |  |  |
 | [5](#team-5) | 규교굥 |  |  |
+| [8](#team-8) | 하면된다 |  |  |
 | [10](#team-10) | 212223 |  |  |
 | [16](#team-16) | 퓨터 |  |  |
 | [18](#team-18) | 디바트(deep-art) |  |  |
@@ -30,6 +31,7 @@
 | 기대 효과 | 데이터 수집 환경이나 지역적 특성에 따른 도메인 차이에도 불구하고 안정적인 예측 성능을 확보할 수 있으며, 다양한 환경에서 활용 가능한 기상 예측 모델을 구축할 수 있다. 이는 기존 기상 예측 모델의 적용 범위를 확장하고, 실제 환경에서의 모델 신뢰도를 향상시키는 데 기여할 것으로 기대된다. |
 | GitHub Repo | [https://github.com/chairwomans/chairwomans-capstone](https://github.com/chairwomans/chairwomans-capstone) |
 | Team Ground Rule |  |
+| 최종수정일 |  |
 
 [↑ 목록으로](#2026-spring-전체-프로젝트-리스트)
 
@@ -52,6 +54,7 @@
 | 기대 효과 | - 재활용 고순도 확보: 정확한 분류를 통해 재활용 원료의 순도가 높아져 자원 순환 경제의 효율성이 극대화됨.<br>- 사회적 비용 절감: 잘못 버려진 쓰레기 선별 및 소각 비용이 감소하여 지자체의 행정 효율성 증대.<br>- 데이터 기반 환경 정책: 시민들이 어떤 품목에서 가장 많이 실수하는지 데이터를 수집하여, 추후 기업의 포장재 개선이나 지자체 교육 정책에 활용 가능. |
 | GitHub Repo | [https://github.com/CSE-Sudo-26](https://github.com/CSE-Sudo-26) |
 | Team Ground Rule |  |
+| 최종수정일 |  |
 
 [↑ 목록으로](#2026-spring-전체-프로젝트-리스트)
 
@@ -74,6 +77,7 @@
 | 기대 효과 | 미디어 분야의 LLM 모델의 답변 정확도 향상 (헐루시네이션 감소 효과) |
 | GitHub Repo | [https://github.com/Ontology0/Graduation-Project](https://github.com/Ontology0/Graduation-Project) |
 | Team Ground Rule |  |
+| 최종수정일 |  |
 
 [↑ 목록으로](#2026-spring-전체-프로젝트-리스트)
 
@@ -96,6 +100,30 @@
 | 기대 효과 | 플레이어가 맵에 놓인 산소통을 수집하여 탐험 가능한 시간을 늘림으로써 물리적인 탐험 시간의 제약을 해결하여 플레이어가 더 오랜 시간 게임 세계에 몰입할 수 있도록 돕는다. 또한 플레이어는 다양한 퀘스트를 의무적으로 수행해야하는 것이 아닌, 그저 광물을 캐고 적들과 싸우는 행동을 함으로써 단순하지만 하다 보면 더 잘하기 위해 집중하게 되는 재미를 느낄 수 있다. |
 | GitHub Repo | [https://github.com/muffinhead03/Start2026_1](https://github.com/muffinhead03/Start2026_1) |
 | Team Ground Rule |  |
+| 최종수정일 |  |
+
+[↑ 목록으로](#2026-spring-전체-프로젝트-리스트)
+
+---
+
+<a id="team-8"></a>
+## Team 8 하면된다
+
+| 항목 | 내용 |
+|------|------|
+| 프로젝트명 |  |
+| 트랙 |  |
+| 팀명 | 하면된다 |
+| 팀구성 |  |
+| 팀지도교수 |  |
+| 무엇을 만들고자 하는가 | 판매자 희망가와 ai 측정가를 병기<br>모든 매물을 특정 시각에 경매에 올리는 개인간 빈티지 거래 플랫폼 |
+| 고객 (누구를 위해) | 빈티지 거래 플랫폼 이용자를 위해 |
+| Pain Point (해결할 문제) | 1. 판매자가 빈티지 상품의 가격을 본인 마음대로 책정(정보 불균형성)<br>2. 괜찮은 매물이 언제 나올지 몰라서 수시로 플랫폼에 접속해 무한 스크롤링<br>3. 판매글 업로드 후 타이밍이 안 맞아 글이 묻히면 다시 새로 업로드(보통 하루에 한번) |
+| 사용 기술 | Vision ai(FastAPI+상용 API),SpringBoot,Spring Batch,RDBMS,Redis 등 |
+| 기대 효과 | ai측정가(객관)와 판매자 희망가(주관)가 너무 차이가 클 경우 업로드 못 하도록 해서 정보 불균형성 해소.<br>특정시각에만 경매가 이루어지므로 판매글이 떠내려가거나,수시로 플랫폼에 들어가 무한 스크롤링하지 않아도 됨 |
+| GitHub Repo | [https://github.com/hamyeon/team-hamyeon-2026](https://github.com/hamyeon/team-hamyeon-2026) |
+| Team Ground Rule |  |
+| 최종수정일 |  |
 
 [↑ 목록으로](#2026-spring-전체-프로젝트-리스트)
 
@@ -117,6 +145,7 @@
 | 사용 기술 | flutter, firebase, firestorm |
 | 기대 효과 | 업무 및 시간 관리 효율 |
 | Team Ground Rule |  |
+| 최종수정일 |  |
 
 [↑ 목록으로](#2026-spring-전체-프로젝트-리스트)
 
@@ -139,6 +168,7 @@
 | 기대 효과 | 소설이 더 풍부해진다 |
 | GitHub Repo | [https://github.com/puter8/capstone](https://github.com/puter8/capstone) |
 | Team Ground Rule |  |
+| 최종수정일 |  |
 
 [↑ 목록으로](#2026-spring-전체-프로젝트-리스트)
 
@@ -161,6 +191,7 @@
 | 기대 효과 | 전시 기획자가 전시 주제, 전시물 설명, 요청 사항 등을 입력하면 AI가 도슨트 설명을 생성하고 이를 음성으로 변환하여 오디오 도슨트로 활용 가능한 음성 파일을 자동으로 제작할 수 있다. 이를 통해 오디오 도슨트 제작 비용과 시간을 크게 줄이고, 더 많은 전시에서 오디오 도슨트를 활용할 수 있다. |
 | GitHub Repo | [https://github.com/ewha-deep-art/deep-art](https://github.com/ewha-deep-art/deep-art) |
 | Team Ground Rule |  |
+| 최종수정일 |  |
 
 [↑ 목록으로](#2026-spring-전체-프로젝트-리스트)
 
@@ -183,6 +214,7 @@
 | 기대 효과 | 비개발자도 즉시 데이터를 탐색하고 빠르게 의사결정을 내릴 수 있게 됨. |
 | GitHub Repo | [https://github.com/26-ewha-capstone-logue](https://github.com/26-ewha-capstone-logue) |
 | Team Ground Rule |  |
+| 최종수정일 |  |
 
 [↑ 목록으로](#2026-spring-전체-프로젝트-리스트)
 
